@@ -176,9 +176,9 @@
   "a7ae287b.js": "a7ae287b-5816de39860ea2284762.js",
   "ac581ebe-a427cc4901b447354e36.js.map": "ac581ebe-a427cc4901b447354e36.js.map",
   "ac581ebe.js": "ac581ebe-a427cc4901b447354e36.js",
-  "app-593bc0042f2117a76b80.js.LICENSE.txt": "app-593bc0042f2117a76b80.js.LICENSE.txt",
-  "app-593bc0042f2117a76b80.js.map": "app-593bc0042f2117a76b80.js.map",
-  "app.js": "app-593bc0042f2117a76b80.js",
+  "app-c850552077ec6999e4c3.js.LICENSE.txt": "app-c850552077ec6999e4c3.js.LICENSE.txt",
+  "app-c850552077ec6999e4c3.js.map": "app-c850552077ec6999e4c3.js.map",
+  "app.js": "app-c850552077ec6999e4c3.js",
   "b5f6012b-4fcb407730b824193c12.js.map": "b5f6012b-4fcb407730b824193c12.js.map",
   "b5f6012b.js": "b5f6012b-4fcb407730b824193c12.js",
   "b66a268f464608e6dd2ebe4655d843ec5478d744-e658746c7114344b1db1.js.map": "b66a268f464608e6dd2ebe4655d843ec5478d744-e658746c7114344b1db1.js.map",
@@ -371,8 +371,8 @@
   "component---src-pages-projects-sistent-about-js.js": "component---src-pages-projects-sistent-about-js-b42c3b7bf9ee77db9eab.js",
   "component---src-pages-projects-sistent-components-index-js-fed14f13bc424ca4d16c.js.map": "component---src-pages-projects-sistent-components-index-js-fed14f13bc424ca4d16c.js.map",
   "component---src-pages-projects-sistent-components-index-js.js": "component---src-pages-projects-sistent-components-index-js-fed14f13bc424ca4d16c.js",
-  "component---src-pages-projects-sistent-identity-color-code-js-6609a59413a8ae39540d.js.map": "component---src-pages-projects-sistent-identity-color-code-js-6609a59413a8ae39540d.js.map",
-  "component---src-pages-projects-sistent-identity-color-code-js.js": "component---src-pages-projects-sistent-identity-color-code-js-6609a59413a8ae39540d.js",
+  "component---src-pages-projects-sistent-identity-color-code-js-fb9d3397136cd48ba60e.js.map": "component---src-pages-projects-sistent-identity-color-code-js-fb9d3397136cd48ba60e.js.map",
+  "component---src-pages-projects-sistent-identity-color-code-js.js": "component---src-pages-projects-sistent-identity-color-code-js-fb9d3397136cd48ba60e.js",
   "component---src-pages-projects-sistent-identity-color-guidance-js-3a99423e3f2b581ed476.js.map": "component---src-pages-projects-sistent-identity-color-guidance-js-3a99423e3f2b581ed476.js.map",
   "component---src-pages-projects-sistent-identity-color-guidance-js.js": "component---src-pages-projects-sistent-identity-color-guidance-js-3a99423e3f2b581ed476.js",
   "component---src-pages-projects-sistent-identity-color-index-js-cb7549a158eef79c5d3e.js.map": "component---src-pages-projects-sistent-identity-color-index-js-cb7549a158eef79c5d3e.js.map",
@@ -1346,6 +1346,6 @@
   "static/yash-sharma.webp": "static/yash-sharma-54aa26b6e5743f0557cfc76aa9797f2d.webp",
   "static/yogi.webp": "static/yogi-d00ca1cc48ab74938a23d4359ef3fb01.webp",
   "styles.css": "styles.3eeb5ca3b888f853e355.css",
-  "webpack-runtime-35019699626f5d14d48a.js.map": "webpack-runtime-35019699626f5d14d48a.js.map",
-  "webpack-runtime.js": "webpack-runtime-35019699626f5d14d48a.js"
+  "webpack-runtime-e2cd1e8dd988388fd5a2.js.map": "webpack-runtime-e2cd1e8dd988388fd5a2.js.map",
+  "webpack-runtime.js": "webpack-runtime-e2cd1e8dd988388fd5a2.js"
 }
